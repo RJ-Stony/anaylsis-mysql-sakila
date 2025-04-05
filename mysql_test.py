@@ -4,7 +4,7 @@ import pandas as pd
 # python mysql에 연결
 host = 'localhost'
 user = 'root'
-password = 'Joshua0526!'
+password = 'pw'
 db_name = 'sakila'
 
 # 접속: pymysql.connect()
